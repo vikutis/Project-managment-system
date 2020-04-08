@@ -13,3 +13,5 @@ Labas
 #Andzejaus commitas
 >>>>>>> 37b3dec76e6667c4999dd39f498f32f6f3cb1770
 
+>>>Viktoras 2020 08 04 2:18
+
